@@ -8,7 +8,6 @@ Airtribe AI-First PM Capstone by Santhosh Sankaran: Product strategy, PRD, 12-po
 **Live Interactive Prototype:** [https://naukri-career-canvas.lovable.app/](https://naukri-career-canvas.lovable.app/)
 
 ---
-
 ## Executive Summary & North Star Mandate
 
 Among active job seekers on [Naukri.com](https://www.naukri.com/faq/job-seeker-apply) who apply to **at least 3 jobs within 7 days**, only **21.0%** currently attend an interview **within 14 days of their third application**—where an attended interview counts **only when the seeker confirms they attended AND the recruiter marks the candidate as interviewed** in Naukri RMS.
